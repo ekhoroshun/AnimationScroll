@@ -132,7 +132,7 @@ class App extends Component {
 						/>
 					</div>
 					<div className="d-flex justify-content-center align-content-center bottom">
-						<h1> Have a wonderful day! :) 👨🏻‍💻 </h1>
+						<h1> Have a wonderful day! :) 🕺🏼 </h1>
 					</div>
 				</div>
 			</div>
