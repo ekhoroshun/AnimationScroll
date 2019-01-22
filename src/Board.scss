@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+    .lines{
+      
+        .line1{
+            width: 400px;
+            border-bottom: 1px solid black;
+        }
+        .line2{
+            width: 400px;
+            border-bottom: 1px solid black;
+        }
+    }
+  
+  .arrow{
+    text-align: center;
+    height: 100px;
+    font-size: 300px;
+    color: rgb(97, 97, 97);
+  }
+  
+  .background{
+    background-image: linear-gradient(to top, #f43b47 0%, #453a94 100%);
+    margin-top: 450px;
+    height: 1500px;
+  }
+  
+  .box-holder{
+    padding: 50px;
+    
+  }
+  
+  .box1{
+    margin: 10px;
+    width: 300px;
+    height: 200px;
+    background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+  }
+  .box2{
+    position: relative;
+    z-index: 1;
+    margin: 10px;
+    width: 300px;
+    height: 200px;
+    background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
+    .heart{
+        height: 100px;
+        
+    i{  
+        
+        height: 100px;
+        position: absolute;
+        color: red;
+        font-size: 100px;
+        bottom: -150px;
+        //right: 1px;
+        left: 100px;
+        
+    }}
+  }
+  .box3{
+    margin: 10px;
+    width: 300px;
+    height: 200px;
+    background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+  }
+  .box4{
+    
+    i{  
+        position: absolute;
+        bottom: -310px;
+        font-size: 50px;
+        color: red;
+        width: 200px;
+        left: 260px;
+    }
+  }
+
+  .box5{
+   
+    
+    i{  
+        width: 200px;
+        position: absolute;
+        bottom: -310px;
+        font-size: 50px;
+        color: red;
+        right: 100px;
+    }
+  }
+
+  .star-holder{
+      margin-top: 200px;
+
+      i{
+          font-size: 100px;
+          padding: 30px;
+          color: yellow;
+        }
+        .left-star{
+           //margin-left: 100px;
+        }
+        .middle-star{
+
+        }
+        .right-star{
+            //width: 200px;
+            //margin-right: 100px;
+        }
+  
+    }
+
+    .cards-holder{
+      
+       margin-top: 100px;
+        .card1{
+            margin: 10px;
+            width: 200px;
+            height: 200px;
+            background-image: linear-gradient(to top, #7028e4 0%, #e5b2ca 100%);
+        }
+    }
+
+    .another-heart{
+        margin-top: 100px;
+        i{
+            font-size: 200px;
+            color: rgb(230, 115, 172);
+        }
+    }
+    .bottom{
+       
+
+    }
