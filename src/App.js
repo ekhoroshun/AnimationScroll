@@ -126,7 +126,7 @@ class App extends Component {
 
 					<div className="d-flex justify-content-center align-content-center another-heart">
 						<i
-							class="fas fa-heart wow shake"
+							class="fas fa-heart wow pulse"
 							data-wow-offset="200"
 							data-wow-iteration="infinite"
 						/>
